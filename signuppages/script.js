@@ -1,3 +1,5 @@
+//still getting this to work
+
 // Get the modal
 var modal = document.getElementById('mentorsignup');
 
