@@ -1,0 +1,24 @@
+{
+  "name": "codementorcenternate",
+  "version": "1.0.0",
+  "description": "Code Mentor Center Agile project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkwapo/codementorcenternlk.git"
+  },
+  "author": "Nate Kwapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkwapo/codementorcenternlk/issues"
+  },
+  "homepage": "https://github.com/mrkwapo/codementorcenternlk#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
